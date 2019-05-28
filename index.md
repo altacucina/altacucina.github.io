@@ -1,7 +1,6 @@
 ## Welcome to the Altacucina Changelog
 
-### First Changelog
-#### 28 May 2019
+#### 28 May 2019 - **First Changelog**
 
 This is our first changelog ever! Today we introduced:
 
